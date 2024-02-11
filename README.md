@@ -3,7 +3,7 @@
 A simple web-based Tic-Tac-Toe game that allows 2 players to create, join, and play a game remotely from each other. The application signals when a game has ended and allows for subsequent games to continue.
 
 ## Application Screenshot
-![Tic-Tac-Toe](./screenshot.png)
+![Tic-Tac-Toe](./screenshot.jpg)
 
 ## Environment Setup
 
